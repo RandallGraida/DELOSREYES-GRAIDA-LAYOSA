@@ -12,7 +12,7 @@ struct Product {
 
     // History logs of the stocks
     std::vector<double> priceHistory;  
-    std::vector<int>    stockHistory;  
+    std::vector<int> stockHistory;  
 };
 
 // Encapsulates the product catalog and all operations on it 
